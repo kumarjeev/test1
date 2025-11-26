@@ -1,3 +1,4 @@
+
 package com.example;
 
 import org.springframework.boot.SpringApplication;
@@ -8,6 +9,7 @@ public class DemoApplication {
 	String name="mike";
 	boolean isPresent=false;
 	int x=80;
+	char c='a';
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
