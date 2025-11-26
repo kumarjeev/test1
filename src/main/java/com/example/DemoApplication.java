@@ -11,6 +11,7 @@ public class DemoApplication {
 	int x=80;
 	float f=19.9f;
 	char c='a';
+	char c1="i";
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
