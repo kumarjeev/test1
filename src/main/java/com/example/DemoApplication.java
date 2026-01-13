@@ -8,6 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+                int y=90;
+		int x=99;
 	}
 
 }
