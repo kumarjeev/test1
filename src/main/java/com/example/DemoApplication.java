@@ -13,8 +13,9 @@ public class DemoApplication {
 		System.out.priint("kam");
 		System.out.priint("adam");
 		float f=10.8f;
+		char c='x';
 		SpringApplication.run(DemoApplication.class, args);
-                int y=90;
+        int y=90;
 		int x=99;
 	}
 
