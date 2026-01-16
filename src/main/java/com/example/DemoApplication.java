@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
+
+		int s=97;
 		char ch='a';
 		boolean isTr=true;
 		System.out.priint("mike");
@@ -16,8 +18,8 @@ public class DemoApplication {
 		boolean isSub=true;
 		char c='x';
 		char i='d';
-		SpringApplication.run(DemoApplication.class, args);
-	    int y=90;
+  	SpringApplication.run(DemoApplication.class, args);
+	  int y=90;
 		int x=99;
 	}
 
