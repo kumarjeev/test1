@@ -15,8 +15,9 @@ public class DemoApplication {
 		float f=10.8f;
 		boolean isSub=true;
 		char c='x';
+		char i='d';
 		SpringApplication.run(DemoApplication.class, args);
-	        int y=90;
+	    int y=90;
 		int x=99;
 	}
 
