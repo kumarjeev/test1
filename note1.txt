@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
 ###########Error################
 fixed it
+=======
+Feature 1
+//Some login code with OTP
+//100%
+###################temp+#######
+
+>>>>>>> Stashed changes
 OOTY JABA
 Jaavan Kumar
 package com.example;
